@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Google Chrome
+StartupWMClass=chrome
+Comment=All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.
+GenericName=Internet Browser
+Exec=/usr/bin/google-chrome --no-sandbox
+Icon=/usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/google-chrome.svg
+Type=Application
+Path=/usr/bin
