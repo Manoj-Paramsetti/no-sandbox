@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://ibb.co/rwFGy4f"><img src="https://i.ibb.co/hmLR8D1/no-sandbox.png" alt="no-sandbox" width=60% border="0"></a></p>
 
-This repository is for using Atom, VS code, Google Chrome in root privileges account without sandbox🚀
+This repository is for the users using Atom, VS code, Google Chrome in root privileges account without sandbox🚀
 
 ## What is this?🤔
 In root user account the atom, VS code, and google chrome aren't recommend to use with superuser privileges to run. so, to use it without user privileges we need `--no-sandbox` or `user-data-dir` arguments to run in root account. It's okay for running those apps by console but if you need to run by desktop application. It will not run till and after your death because it will not allow you to run simply without `--no-sandbox` or `user-data-dir`
